@@ -194,3 +194,11 @@ textarea{min-height:128px;resize:vertical}
 .bottom-cta{padding:75px 0;background:linear-gradient(135deg,var(--navy),#173d6b);color:#fff}.bottom-cta h2{color:#fff}.bottom-cta p{color:#d8e6f3}
 @media(max-width:1000px){.service-feature-grid,.process-grid{grid-template-columns:1fr 1fr}.proof-strip-inner{grid-template-columns:1fr 1fr}.proof-item:nth-child(2){border-right:0}.proof-item:nth-child(-n+2){border-bottom:1px solid var(--line)}}
 @media(max-width:760px){.home-hero{min-height:640px;background:linear-gradient(180deg,#102b4d,#24496e)}.home-hero-content{padding:75px 0 90px}.proof-strip{margin-top:-24px}.proof-strip-inner,.service-feature-grid,.process-grid,.project-showcase{grid-template-columns:1fr}.proof-item{border-right:0;border-bottom:1px solid var(--line)}.proof-item:last-child{border-bottom:0}.big-project{min-height:400px}.warranty-band{align-items:flex-start;flex-direction:column}}
+
+/* ===== Official LanScape logo ===== */
+.brand-logo{display:flex;align-items:center}
+.brand-logo img{width:230px;max-width:34vw;height:auto;display:block}
+.footer .brand-logo img{width:210px;max-width:100%;filter:none}
+@media(max-width:760px){
+  .brand-logo img{width:185px;max-width:52vw}
+}

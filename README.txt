@@ -67,3 +67,11 @@ HOMEPAGE V2
 -----------
 The homepage was upgraded to a more premium GTA landscaping-contractor layout.
 Replace all project placeholders with real completed-project photos before finalizing.
+
+
+OFFICIAL LOGO
+-------------
+The official LanScape Outdoors logo is now included at:
+assets/images/lanscape-logo.png
+
+It is used in the website header and footer.
