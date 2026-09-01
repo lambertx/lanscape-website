@@ -61,3 +61,9 @@ For the homepage hero, replace the .visual placeholder with an <img> or set a ba
 NOTE
 ----
 This site uses no framework and no build process. It can be uploaded directly to Cloudflare Pages.
+
+
+HOMEPAGE V2
+-----------
+The homepage was upgraded to a more premium GTA landscaping-contractor layout.
+Replace all project placeholders with real completed-project photos before finalizing.
