@@ -118,3 +118,6 @@ ADAPTIVE SYSTEM FONTS
 This version uses the visitor device's native system font automatically.
 Examples: Windows -> Segoe UI / Microsoft YaHei; macOS/iPhone -> SF system font / PingFang SC; Android -> Roboto / Noto Sans.
 No external font download is required, improving speed and compatibility.
+
+MARKHAM REAL PROJECT - CORRECTED
+Corrected real Markham project photos added only to projects.html. Homepage and Customer Stories AI images remain unchanged.
