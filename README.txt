@@ -111,3 +111,10 @@ Updated homepage visuals include:
 - Customer Stories card images
 - Refined Featured Projects copy
 - Homepage AI-image disclosure note
+
+
+ADAPTIVE SYSTEM FONTS
+---------------------
+This version uses the visitor device's native system font automatically.
+Examples: Windows -> Segoe UI / Microsoft YaHei; macOS/iPhone -> SF system font / PingFang SC; Android -> Roboto / Noto Sans.
+No external font download is required, improving speed and compatibility.
