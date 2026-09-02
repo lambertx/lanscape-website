@@ -222,3 +222,20 @@ textarea{min-height:128px;resize:vertical}
 .story-detail-img{width:100%;height:auto;max-height:620px;object-fit:cover;border-radius:18px;margin-bottom:28px;display:block}
 .story-photo-image{background-size:cover;background-position:center}
 .ai-note{font-size:.9rem;color:var(--muted);background:#f7fbff;border:1px solid var(--line);padding:12px 14px;border-radius:10px;margin-top:14px}
+
+/* ===== Latest image integration ===== */
+.home-hero-image{
+  background:
+    linear-gradient(90deg,rgba(7,25,47,.91) 0%,rgba(7,25,47,.78) 40%,rgba(7,25,47,.30) 70%,rgba(7,25,47,.16) 100%),
+    url('/assets/images/projects/hero-backyard.jpg') center center / cover no-repeat;
+}
+.home-hero-image::after{content:none}
+.project-bg{background-size:cover;background-position:center}
+.project-card-img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
+@media(max-width:760px){
+  .home-hero-image{
+    background:
+      linear-gradient(180deg,rgba(7,25,47,.88),rgba(7,25,47,.72)),
+      url('/assets/images/projects/hero-backyard.jpg') center center / cover no-repeat;
+  }
+}

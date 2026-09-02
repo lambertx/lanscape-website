@@ -86,3 +86,18 @@ V5 includes AI-generated concept illustrations for:
 - Premium backyard visual
 
 The customer-stories page explicitly discloses that these are AI-generated concept illustrations and not photos of the specific customers described.
+
+
+LATEST VERSION
+--------------
+This build includes:
+- Official LanScape Outdoors logo
+- Upgraded homepage contractor layout
+- Customer Stories page
+- AI-generated concept images for customer-story scenarios
+- AI-generated hero and project gallery images
+- Filled image placeholders on homepage and Projects page
+- SEO files, sitemap, robots.txt, responsive design
+
+Important:
+AI-generated images are concept illustrations. Replace them with real LanScape Outdoors project photography whenever available.
