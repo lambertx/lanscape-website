@@ -101,3 +101,13 @@ This build includes:
 
 Important:
 AI-generated images are concept illustrations. Replace them with real LanScape Outdoors project photography whenever available.
+
+
+HOMEPAGE IMAGE UPDATE
+---------------------
+This version fills the remaining homepage image areas using AI-generated concept illustrations.
+Updated homepage visuals include:
+- Service category image backgrounds
+- Customer Stories card images
+- Refined Featured Projects copy
+- Homepage AI-image disclosure note

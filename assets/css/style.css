@@ -239,3 +239,11 @@ textarea{min-height:128px;resize:vertical}
       url('/assets/images/projects/hero-backyard.jpg') center center / cover no-repeat;
   }
 }
+
+/* ===== Homepage filled image updates ===== */
+.service-feature-image{background-size:cover;background-position:center}
+.story-card .story-photo{min-height:220px;background-size:cover;background-position:center}
+.homepage-ai-note{margin-top:8px}
+@media(max-width:900px){
+  .story-card .story-photo{min-height:180px}
+}
