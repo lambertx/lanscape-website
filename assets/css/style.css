@@ -217,3 +217,8 @@ textarea{min-height:128px;resize:vertical}
 .customer-quote{margin:28px 0 0;padding:22px 24px;border-left:4px solid var(--blue);background:var(--sky);color:var(--navy);font-size:1.08rem;font-style:italic;border-radius:10px}
 @media(max-width:900px){.story-grid{grid-template-columns:1fr 1fr}.story-featured{grid-template-columns:1fr;grid-column:1/-1}}
 @media(max-width:620px){.story-grid{grid-template-columns:1fr}.story-featured{grid-template-columns:1fr}.story-photo,.story-detail-photo{min-height:260px}}
+
+/* ===== Customer story images ===== */
+.story-detail-img{width:100%;height:auto;max-height:620px;object-fit:cover;border-radius:18px;margin-bottom:28px;display:block}
+.story-photo-image{background-size:cover;background-position:center}
+.ai-note{font-size:.9rem;color:var(--muted);background:#f7fbff;border:1px solid var(--line);padding:12px 14px;border-radius:10px;margin-top:14px}

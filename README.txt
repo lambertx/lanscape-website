@@ -75,3 +75,14 @@ The official LanScape Outdoors logo is now included at:
 assets/images/lanscape-logo.png
 
 It is used in the website header and footer.
+
+
+CUSTOMER STORY IMAGES
+---------------------
+V5 includes AI-generated concept illustrations for:
+- Growing-family backyard patio
+- Pre-sale interlocking driveway / curb appeal
+- Safer front steps and walkway
+- Premium backyard visual
+
+The customer-stories page explicitly discloses that these are AI-generated concept illustrations and not photos of the specific customers described.
