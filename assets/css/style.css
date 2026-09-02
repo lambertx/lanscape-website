@@ -202,3 +202,18 @@ textarea{min-height:128px;resize:vertical}
 @media(max-width:760px){
   .brand-logo img{width:185px;max-width:52vw}
 }
+
+/* ===== Customer Stories ===== */
+.customer-stories-section{background:#fff}
+.story-grid{display:grid;grid-template-columns:1.4fr .8fr .8fr;gap:20px}
+.story-card{border:1px solid var(--line);border-radius:22px;overflow:hidden;background:#fff;box-shadow:0 12px 34px rgba(15,39,71,.06)}
+.story-featured{display:grid;grid-template-columns:1.05fr .95fr;grid-column:1/-1}
+.story-photo{min-height:380px;background:linear-gradient(145deg,#cbd9e5,#6f879b);display:grid;place-items:center;color:rgba(15,39,71,.42);font-weight:900;letter-spacing:1.5px;text-align:center;padding:20px}
+.story-content{padding:28px}.story-meta{color:var(--blue);font-size:.82rem;font-weight:900;letter-spacing:.8px;text-transform:uppercase;margin-bottom:12px}
+.story-content h3{font-size:1.35rem}.story-quote{font-size:1.05rem;font-style:italic;color:#41536a;border-left:3px solid var(--blue);padding-left:16px}.story-link{display:inline-block;margin-top:10px;color:var(--blue);font-weight:900}
+.story-detail-grid{display:grid;gap:38px}.story-detail{border:1px solid var(--line);border-radius:24px;padding:34px;background:#fff;box-shadow:0 12px 34px rgba(15,39,71,.05)}
+.story-detail-photo{min-height:360px;border-radius:18px;background:linear-gradient(145deg,#d8e3ec,#8aa0b2);display:grid;place-items:center;color:rgba(15,39,71,.4);font-weight:900;letter-spacing:1.4px;margin-bottom:28px}
+.story-detail h2{font-size:clamp(1.8rem,3vw,2.7rem)}.story-detail h3{margin-top:26px}.story-list{padding-left:20px;color:var(--muted)}
+.customer-quote{margin:28px 0 0;padding:22px 24px;border-left:4px solid var(--blue);background:var(--sky);color:var(--navy);font-size:1.08rem;font-style:italic;border-radius:10px}
+@media(max-width:900px){.story-grid{grid-template-columns:1fr 1fr}.story-featured{grid-template-columns:1fr;grid-column:1/-1}}
+@media(max-width:620px){.story-grid{grid-template-columns:1fr}.story-featured{grid-template-columns:1fr}.story-photo,.story-detail-photo{min-height:260px}}
